@@ -11,7 +11,7 @@ DJANGO-REST(PYTHON 3.10)!!!!!!!!NOTE THIS.....
 5.py manage.py runserver
 
 FRONTEND
-1.CD frontend
+1.CD frontend2
 2.npm i or npm install
 3.npm start
 
